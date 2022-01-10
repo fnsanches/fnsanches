@@ -5,7 +5,7 @@
 - Computer Technician (Webdesign, Network and Programming)
 - Industrial Engineer
 
-Biggest dream: Help develop a huge AAA multiplayer online.
+Biggest dream: Participate in development of huge AAA multiplayer online.
 
 Socials:
 
