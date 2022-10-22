@@ -1,7 +1,8 @@
 ## Hi, my name is Felipe Nobre Sanches
 
 - I'm an aspiring developer
-- Currently learning C/C++ @42.rio (École 42 branch in Rio de Janeiro)
+- Software Engineering @42.rio (École 42 branch in São Paulo)
+- Software Engineering @Faculdade Anhanguera
 - Computer Technician (Webdesign, Network and Programming)
 - Industrial Engineer
 
