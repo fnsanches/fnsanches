@@ -1,10 +1,8 @@
 ## Hi, my name is Felipe Nobre Sanches
 
-- Software Engineering @42.rio (École 42 branch in São Paulo)
 - Software Engineering @Faculdade Anhanguera
 - Computer Technician (Webdesign, Network and Programming)
-
-Biggest dream: Be part of a development team in one of the huge videogames studios, work in different countries, learning new cultures and languages.
+- Data Engineering
 
 Socials:
 
